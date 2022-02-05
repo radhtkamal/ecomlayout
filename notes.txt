@@ -1,0 +1,8 @@
+1. Background color do not work in semantic HTML
+2. Adding margin to inner div adds margin to container div
+3. Adjust the height of the inner div to create paddings within the container div, margin in inner div also worked
+4. Adjust container div height to fit content and set min-height
+5. Display flex automatically formats inner div to row
+6. Padding adds height even when border-box is set 
+7. Always use rems as margins
+8. List CSS selectors to be styled first before adding styling
